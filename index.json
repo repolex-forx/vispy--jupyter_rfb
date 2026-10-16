@@ -1,0 +1,11 @@
+{
+  "org": "vispy",
+  "repo": "jupyter_rfb",
+  "versions": [
+    {
+      "commit": "23764d3aec1858be527ea036198461fcff8741d4",
+      "tag": "",
+      "parsed_at": "2026-10-16T02:52:10.117894+00:00"
+    }
+  ]
+}
