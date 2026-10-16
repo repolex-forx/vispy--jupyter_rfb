@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vispy/jupyter_rfb/commit/23764d3aec1858be527ea036198461fcff8741d4",
       "git:hexsha": "23764d3aec1858be527ea036198461fcff8741d4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/vispy/jupyter_rfb/commit/4c6aaebcfd1fb3b1656988eabb9a3ca5223c0886",
